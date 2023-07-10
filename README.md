@@ -2,7 +2,7 @@
 
  Multimedia player which can display image, gif, and video.
 
- [![Generic badge](https://img.shields.io/badge/view-demo-blue?style=for-the-badge)]()
+ [![Generic badge](https://img.shields.io/badge/view-demo-blue?style=for-the-badge)](https://multimediaplayer.onrender.com)
 
 
 
@@ -10,7 +10,7 @@
 
 **Clone repo**
 ```bash
-git clone 
+git clone https://github.com/kanhaiya04/multimediaPlayer
 cd multimediaPlayer/
 ```
 **Use npm to install packages**
@@ -19,7 +19,7 @@ cd multimediaPlayer/
 npm install
 ```
 
-**Run on hostlocal host 3000**
+**Run on  localhost 3000**
 ```bash
 npm start
 ```
