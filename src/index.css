@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #2D4356 !important;
+  background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png");
 }
 
 code {
